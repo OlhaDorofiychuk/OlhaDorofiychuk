@@ -4,8 +4,8 @@ PERSONAL BIO
 Grew up in Ukraine, relocated to UK in 2013.
 Currently live in London.
 
-🗣 Fluent in: Ukrainian, English, Russian
-🏘️ Former office administator at real estate agency.  
+- 🗣 Fluent in: Ukrainian, English, Russian.
+- 🏘️ Former office administator at real estate agency.  
 - 👀 I’m interested in JavaScript, HTML, CSS and React
 - 🌱 I’m currently learning Agile.
 
