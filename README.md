@@ -5,10 +5,11 @@ PERSONAL BIO
 Grew up in Ukraine, relocated to UK in 2013.
 Currently live in London.
 
+- 👀 I’m Junior Front End Deveper codding in JavaScript, HTML, CSS and React.
+- 🏘️ Former office administator/property manager at real estate agency and Director of service station with 4 branches.
+- 🌱 I’m currently learning TypeScript and Hugo.
 - 🗣 Fluent in: Ukrainian, English, Russian.
-- 🏘️ Former office administator/property manager at real estate agency.  
-- 👀 I’m interested in JavaScript, HTML, CSS and React
-- 🌱 I’m currently learning Agile and Hugo.
+
 
 📫 How to reach me:
 - [GitHub](https://github.com/OlhaDorofiychuk)
@@ -18,4 +19,4 @@ Currently live in London.
 PROJECTS
 
 [Watch it](https://github.com/OlhaDorofiychuk/watch-it)
-A simple yet aesthetically pleasing app to search and display movies by using TMDB API. User can change color scheme from neutral grey to bright blue gradient. 
+A simple yet aesthetically pleasing app to search and display movies by using TMDB API. User can search movies by name orgenre and change color scheme from neutral grey to bright blue gradient. 
