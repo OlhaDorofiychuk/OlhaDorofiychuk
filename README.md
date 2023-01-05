@@ -21,7 +21,7 @@ PROJECTS
 [Watch it](https://github.com/OlhaDorofiychuk/watch-it)
 A simple yet aesthetically pleasing app to search and display movies by using TMDB API. User can search movies by name orgenre and change color scheme from neutral grey to bright blue gradient. 
 
-[My Todo]()
-This project helped me to understand and use React with typescript.
+[My Todo](https://github.com/OlhaDorofiychuk/typescript_todo)
+This quick project helped me to understand and use React together with Typescript.
 
 
