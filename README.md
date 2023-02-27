@@ -7,7 +7,7 @@ Currently live in London.
 
 - 👀 I’m Junior Front End Deveper codding in JavaScript, HTML, CSS and React.
 - 🏘️ Former office administator/property manager at real estate agency and Director of service station with 4 branches.
-- 🌱 I’m currently learning TypeScript and Hugo.
+- 🌱 I’m currently learning TypeScript, Hugo and Python.
 - 🗣 Fluent in: Ukrainian, English, Russian.
 
 
