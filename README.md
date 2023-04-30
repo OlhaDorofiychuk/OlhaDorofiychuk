@@ -26,4 +26,4 @@ A simple yet aesthetically pleasing app to search and display movies by using TM
 [My Todo](https://github.com/OlhaDorofiychuk/typescript_todo)
 This quick project helped me to understand and use React together with Typescript.
 
-[Weather-app]()
+[Weather-app](https://github.com/OlhaDorofiychuk/weather-app)
