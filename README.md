@@ -27,3 +27,4 @@ A simple yet aesthetically pleasing app to search and display movies by using TM
 This quick project helped me to understand and use React together with Typescript.
 
 [Weather-app](https://github.com/OlhaDorofiychuk/weather-app)
+
