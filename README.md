@@ -2,13 +2,7 @@ PERSONAL BIO
 
 👋 Hi, I’m Olha Dorofiychuk
 
-Grew up in Ukraine, relocated to UK in 2013.
-Currently live in London and changing my career into front end development.
-
-- 👀 I’m Junior Front End Deveper codding in JavaScript, HTML, CSS and React.
-- 🏘️ Former office administator/property manager at real estate agency and Director of service station with 4 branches.
-- 🌱 I’m currently learning TypeScript, Hugo and Python.
-- 🗣 Fluent in: Ukrainian, English, Russian.
+Junior Front End Developer || React JS, JavaScript,ES6, Git
 
 
 
